@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+bundled_main.py
+*.egg-info/
+.eggs/
+cache/
+orb_settings.json
+fyers_credentials.json
+*.log
+.DS_Store
